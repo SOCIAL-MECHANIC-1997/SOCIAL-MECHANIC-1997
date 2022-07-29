@@ -64,7 +64,7 @@
  <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=square&logo=Telegram"></a>
  <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
 
-[Typing SVG] 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 
 <details> 
 <summary><b7>MY ANOTHER PROJECTS</b7></summary>
@@ -92,7 +92,7 @@
 <P align="left"> 
 ★8.<a href="https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-INLINE-GAME-BOT">SOCIAL GAME BOT</a>
  </P> 
-[Typing SVG]
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
 
 
