@@ -1,4 +1,4 @@
-
+## <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=000888&vCenter=true&size=45%22">
 
 | <a href="https://t.me/social_mechanic_1997"><IMG src="https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-MECHANIC-1997/blob/main/etc/animation%20(1).gif"></a> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
