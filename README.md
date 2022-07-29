@@ -1,6 +1,6 @@
 
 
-| <a href="https://t.me/social_mechanic_1997"><IMG src="https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-MECHANIC-1997/blob/main/ext/animation.gif"></a> | 
+| <a href="https://t.me/social_mechanic_1997"><IMG src="https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-MECHANIC-1997/blob/main/etc/animation%20(1).gif"></a> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://github.com/SOCIAL-MECHANIC-1997?tab=followers)&nbsp; !Profile views | 
 |![Telegram](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-square&logo=Telegram"></a>
