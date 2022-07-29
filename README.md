@@ -37,7 +37,7 @@
  <a href="https://github.com/SOCIAL-MECHANIC-1997/handle-path-oz"><img alt="SOCIAL-MECHANIC-1997's github stats"src="https://github-readme-stats.vercel.app/api?username=SOCIAL-MECHANIC-1997&show_icons=true&theme=highcontrast"/> </a> 
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=social-mechanic-1997&hide=html&layout=compact&theme=highcontrast"/>
 
- # Languages and Tools:
+## Languages and Tools:
 
  <p align="center"> 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=square&logo=python&logoColor=white"/> 
