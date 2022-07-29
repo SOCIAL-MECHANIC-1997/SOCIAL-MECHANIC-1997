@@ -31,12 +31,11 @@
 
  # GITHUB STATUS 
 
- !Visitor Count
- <p align="center"> 
+<p align="center"> 
 <a href="https://github.com/SOCIAL-MECHANIC-1997"><img target="_blank" src="https://img.shields.io/badge/-SOCIAL_MECHANIC-green?style=square&logo=github&logoColor=black"/></a> 
 </p>
- <a href="https://github.com/SOCIAL-MECHANIC-1997/handle-path-oz"><img alt="SOCIAL-MECHANIC-1997's github stats"src="https://github-readme-stats.vercel.app/api?username=SOCIAL-MECHANIC-1997&show_icons=true&theme=midnight-purple"/> </a> 
-
+ <a href="https://github.com/SOCIAL-MECHANIC-1997/handle-path-oz"><img alt="SOCIAL-MECHANIC-1997's github stats"src="https://github-readme-stats.vercel.app/api?username=SOCIAL-MECHANIC-1997&show_icons=true&theme=highcontrast"/> </a> 
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=social-mechanic-1997&hide=html&layout=compact&theme=highcontrast"/>
 
  # Languages and Tools:
 
