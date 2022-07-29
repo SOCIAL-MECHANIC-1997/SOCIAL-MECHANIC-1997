@@ -6,7 +6,9 @@
 |![Telegram](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-square&logo=Telegram"></a>
  <p align="center">
   <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="social_mechanic" /> 
+
 ----------- 
+
 <img width="40%" align="right" alt="Github" src="https://telegra.ph/file/b89ae19627f5395468182.png" /> 
 <p align="center"> 
 - 🇭𝑒𝑙𝑙𝑜 𝐼'𝑚 𝑘𝑎𝑣𝑖𝑛 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.
@@ -24,6 +26,7 @@
   <a href="https://youtube.com/channel/UCRcRXNwpjSfobVWOhkbcSrQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=square&color=red&labelColor=ce453"/> </a> 
   <a href="mailto:socialmechanic1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-CANTACT-blue?style=square&logo=gmail"></a>
 </p> 
+
 -----------
 
  # GITHUB STATUS 
@@ -50,7 +53,9 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=square&logo=github&logoColor=white"/>
  </p>
- ## SUPPORT GROUP & Updates CHANNEL
+
+##  SUPPORT GROUP & Updates CHANNEL
+
  <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=square&logo=Telegram"></a>
  <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
 
