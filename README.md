@@ -3,7 +3,7 @@
 | <a href="https://t.me/social_mechanic_1997"><IMG src="https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-MECHANIC-1997/blob/main/etc/animation%20(1).gif"></a> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/SOCIAL-MECHANIC-1997?style=square)&nbsp; <img src="https://komarev.com/ghpvc/?username=SOCIAL-MECHANIC-1997" color="blue" alt="Profile views"/> | 
-|<a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-square&logo=Telegram"></a>  <><img src="https://img.shields.io/badge/Support-Channel-blue.svg?style=size-square&logo=Telegram"> 
+|<a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-square&logo=Telegram"></a>  
  
   <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="social_mechanic" /> 
 
