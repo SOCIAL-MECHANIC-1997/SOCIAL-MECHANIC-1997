@@ -2,7 +2,7 @@
 
 | <a href="https://t.me/social_mechanic_1997"><IMG src="https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-MECHANIC-1997/blob/main/etc/animation%20(1).gif"></a> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub followers](https://github.com/SOCIAL-MECHANIC-1997?tab=followers)&nbsp; !Profile views | 
+| ![GitHub followers](https://github.com/SOCIAL-MECHANIC-1997?tab=followers)&nbsp; <img src="https://komarev.com/ghpvc/?username=SOCIAL-MECHANIC-1997" color="blue" alt="Profile views"/> | 
 |![Telegram](https://t.me/tamil_chat_group_1)&nbsp; <a href="https://t.me/social_mechanic_1997"><img src="https://img.shields.io/badge/Contact-Owner-blue.svg?style=size-square&logo=Telegram"></a>
  <p align="center">
   <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="social_mechanic" /> 
@@ -23,6 +23,7 @@
 
 <p align="center"> 
   <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Contact-Me%20-blue.svg?style=square&logo=Telegram"></a>
+  <a href="https://instagram.com/diogocarp" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://youtube.com/channel/UCRcRXNwpjSfobVWOhkbcSrQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=square&color=red&labelColor=ce453"/> </a> 
   <a href="mailto:socialmechanic1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-CANTACT-blue?style=square&logo=gmail"></a>
 </p> 
