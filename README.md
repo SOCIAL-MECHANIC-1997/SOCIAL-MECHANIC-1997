@@ -31,7 +31,7 @@
   <a href="https://social-mechanic-1997.github.io/SOCIAL-MECHANIC/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://twitter.com/socialmechanic1"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white">  
   <a href="https://wordpress.com/wp-login.php"><img src="https://img.shields.io/badge/My-Bloge%20-gold.svg?style=square&logo=mongodb"></a>
-  <a href="https://www.facebook.com/socialmechanic1997/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088">
+  <a href="https://www.facebook.com/socialmechanic1997/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>
   <a href="https://youtube.com/channel/UCRcRXNwpjSfobVWOhkbcSrQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=square&color=red&labelColor=ce453"/> </a> 
   <a href="mailto:socialmechanic1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-CANTACT-blue?style=square&logo=gmail"></a>
 </p> 
