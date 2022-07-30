@@ -21,7 +21,7 @@
 <a href="https://github.com/social-mechanic-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Social%20+Mechanic%201997;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=000888&vCenter=true&size=45%22"></a> </p>
 
 ```
- ☭ COMRADE Political POWER GROWS OUT OF THE BARREL OF A GUN 
+ ☭ COMRADE POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
 ```
 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀: 
 
